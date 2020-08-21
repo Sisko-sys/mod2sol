@@ -14,7 +14,7 @@ height: 80px;
 text-align:center;
 font-family: Calibri;
 font-style: italic;
-font-size:1em;
+font-size:1,75em;
   }
 
 h2 {
@@ -29,6 +29,7 @@ h2 {
 
   /*font*/
   font-family: Calibri;
+  font-size:1,5em;
   color: white;
   text-align: right;
   top: 10px;
